@@ -1,0 +1,43 @@
+body {
+    background-color: #5ccbed;
+    font-family: 'Times New Roman', Times, serif;
+    color: #02607a;
+}
+
+header {
+    background-color: #cff3fc;
+    padding: 17px;
+    text-align: center;
+}
+
+section {
+    background-color: #e7dcfc;
+    padding: 15px;
+    margin: 12px;
+}
+
+img {
+    width: 283px;
+    float: right;       
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #cff3fc;
+    padding: 17px;
+    text-align: center;
+}
